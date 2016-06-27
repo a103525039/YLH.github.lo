@@ -11,3 +11,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ![Mou icon](b.png)
 
+![Mou icon](gaoshan1.jpg)
